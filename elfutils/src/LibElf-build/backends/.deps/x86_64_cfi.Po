@@ -1,0 +1,218 @@
+x86_64_cfi.o: /home/dyninst/elfutils/src/LibElf/backends/x86_64_cfi.c \
+ /usr/include/stdc-predef.h ../config.h \
+ /home/dyninst/elfutils/src/LibElf/lib/eu-config.h \
+ /home/dyninst/elfutils/src/LibElf/libdw/dwarf.h \
+ /home/dyninst/elfutils/src/LibElf/backends/libebl_CPU.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/libeblP.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/gelf.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/libelf.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ /usr/include/sys/types.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/time.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/elf.h \
+ /home/dyninst/elfutils/src/LibElf/libasm/libasm.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdbool.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/libebl.h \
+ /home/dyninst/elfutils/src/LibElf/libdw/libdw.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/elf-knowledge.h \
+ /usr/include/libintl.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+/home/dyninst/elfutils/src/LibElf/lib/eu-config.h:
+
+/home/dyninst/elfutils/src/LibElf/libdw/dwarf.h:
+
+/home/dyninst/elfutils/src/LibElf/backends/libebl_CPU.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/libeblP.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/gelf.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/libelf.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/elf.h:
+
+/home/dyninst/elfutils/src/LibElf/libasm/libasm.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdbool.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/libebl.h:
+
+/home/dyninst/elfutils/src/LibElf/libdw/libdw.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/elf-knowledge.h:
+
+/usr/include/libintl.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h:
+x86_64_cfi.os: /home/dyninst/elfutils/src/LibElf/backends/x86_64_cfi.c \
+ /usr/include/stdc-predef.h ../config.h \
+ /home/dyninst/elfutils/src/LibElf/lib/eu-config.h \
+ /home/dyninst/elfutils/src/LibElf/libdw/dwarf.h \
+ /home/dyninst/elfutils/src/LibElf/backends/libebl_CPU.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/libeblP.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/gelf.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/libelf.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ /usr/include/sys/types.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/time.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/elf.h \
+ /home/dyninst/elfutils/src/LibElf/libasm/libasm.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdbool.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/libebl.h \
+ /home/dyninst/elfutils/src/LibElf/libdw/libdw.h \
+ /home/dyninst/elfutils/src/LibElf/libelf/elf-knowledge.h \
+ /usr/include/libintl.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h \
+ /home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
+
+/home/dyninst/elfutils/src/LibElf/lib/eu-config.h:
+
+/home/dyninst/elfutils/src/LibElf/libdw/dwarf.h:
+
+/home/dyninst/elfutils/src/LibElf/backends/libebl_CPU.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/libeblP.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/gelf.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/libelf.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/elf.h:
+
+/home/dyninst/elfutils/src/LibElf/libasm/libasm.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdbool.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/libebl.h:
+
+/home/dyninst/elfutils/src/LibElf/libdw/libdw.h:
+
+/home/dyninst/elfutils/src/LibElf/libelf/elf-knowledge.h:
+
+/usr/include/libintl.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h:
+
+/home/dyninst/elfutils/src/LibElf/libebl/ebl-hooks.h:

@@ -1,0 +1,1 @@
+cmd='CFLAGS=-g;<SOURCE_DIR>/configure;--enable-shared;--prefix=/home/dyninst/elfutils'
